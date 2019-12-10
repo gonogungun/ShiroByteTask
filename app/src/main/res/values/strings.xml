@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskReminderShirobyteTes</string>
+    <string name="title_activity_remind_me">RemindMe</string>
+    <string name="title_activity_add_reminder">AddReminderActivity</string>
+    <string name="no_cardetails">Click on the button below to begin creating your reminder!</string>
+    <string name="editor_activity_title_new_reminder">Add Reminder Details</string>
+    <string name="editor_activity_title_edit_reminder">Edit Reminder</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+</resources>
